@@ -1,0 +1,13 @@
+Author: Michael Gries
+IMEI-AF104: 355632005221909
+IMEI-TC65T: 355632005217881
+MIDlet-1: AF104,,name.gries.AF104
+MIDlet-Description: TC65 application for AF104
+MIDlet-Info-URL: http://www.gries.name/AF104
+MIDlet-Jar-Size: 70195
+MIDlet-Jar-URL: AF104.jar
+MIDlet-Name: AF104
+MIDlet-Vendor: (C) by Michael Gries
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: IMP-NG
